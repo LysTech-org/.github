@@ -1,6 +1,6 @@
 # LysTech (lystech-org)
 
-Welcome to LysTech — a non-profit team dedicated to fun, innovation, and open collaboration at [team.lystech.org](https://team.lystech.org)! We’re a crew of passionate developers and AI enthusiasts building open-source projects and AI.
+Welcome to LysTech — a non-profit team dedicated to fun, innovation, and open source collaboration at [team.lystech.org](https://team.lystech.org)! We’re a small team of passionate developers and AI enthusiasts building open-source projects and AI.
 
 ---
 
