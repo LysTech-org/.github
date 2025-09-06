@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/225606129?s=400&u=7518d2bc03176f65f0296c326529d9c72a83e704&v=4" width="150" alt="LysTech Logo"/>
+  <img src="https://raw.githubusercontent.com/LysTech-org/assets/refs/heads/main/logo/textlogo.png" width="150" alt="LysTech Logo"/>
 </p>
 
 Welcome to LysTech — a non-profit team dedicated to fun, innovation, and open source collaboration at [team.lystech.org](https://team.lystech.org)! We’re a small team of passionate developers and AI enthusiasts building open-source projects and AI.
