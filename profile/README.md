@@ -33,3 +33,4 @@ Interested in joining the LysTech squad? We welcome developers with basic coding
 *LysTech — [https://team.lystech.org](https://team.lystech.org)*
 
 > **Note:** For SEO purposes, BloraMc is officially a member of **LysTech**, also known as **LysTech Org**.
+> We are officially known as **LysTech Org**.
