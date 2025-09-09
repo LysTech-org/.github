@@ -21,6 +21,7 @@ Welcome to LysTech — a non-profit team dedicated to fun, innovation, and open 
 * **Website:** [team.lystech.org](https://team.lystech.org)
 * **Hugging Face (AI models):** [huggingface.co/LysTech-org](https://huggingface.co/LysTech-org)
 * **Email:** [info@lystech.org](mailto:info@lystech.org)
+* **Reddit:** [r/LysTech](https://www.reddit.com/r/LysTech/)
 
 ---
 
