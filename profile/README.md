@@ -27,7 +27,7 @@ Welcome to LysTech — a non-profit team dedicated to fun, innovation, and open 
 
 ## Wanna Join?
 
-Interested in joining the LysTech squad? We welcome developers with basic coding and collaboration skills. While we primarily recruit members in real life like in France or Hong Kong, remote contributors are always welcome! Just drop us a message at [info@lystech.org](mailto:info@lystech.org) and let’s chat.
+Interested in joining the LysTech squad? We welcome developers with basic coding and collaboration skills. Remote contributors are always welcome! Just drop us a message at [info@lystech.org](mailto:info@lystech.org) and let’s chat.
 
 ---
 
